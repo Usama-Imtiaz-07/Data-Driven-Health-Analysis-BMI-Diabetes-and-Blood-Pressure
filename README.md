@@ -109,7 +109,7 @@ This project demonstrates my ability to:
 ## Relevance to Data Science and Data Analyst Roles
 This project aligns with the core responsibilities of **Data Scientists** and **Data Analysts**:
 - **Data Exploration and Cleaning**: Handling real-world datasets with missing or inconsistent data.
-- **Pattern Recognition**: Identifying trends and relationships in large datasets.
+- **Pattern Recognition**: Identifying trends and relationships in datasets.
 - **Visualization**: Creating dashboards and reports to communicate insights.
 - **Problem-Solving**: Addressing complex questions and validating assumptions with data.
 
